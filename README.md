@@ -71,3 +71,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - Install passport package: composer require laravel/passport
 - Prepare database, setting .env file and run migrate
 - Run php artisan passport:install in terminal and save credential
+- Setting passport
+- Create register controller for endpoint register. in terminal: php artisan make:controller Api/Auth/RegisterController
